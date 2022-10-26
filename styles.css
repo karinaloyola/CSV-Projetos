@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);  
+  }
+ 
+ .faqs-container {
+    font-family: "Kumbh Sans", sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+ }
+
+ .faqs-container .questions-container {
+    box-shadow: 0px 8px -3px rgba(0,0,0,0.3);
+ }
+
+ .faqs-container h2 {
+    padding: 4px 32px;
+    font-size:28px;
+ }
+
+ .faqs-container .faq-header {
+    display: flex;
+    background: 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
