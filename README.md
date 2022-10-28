@@ -3,7 +3,6 @@
 - [Overview]
   - [The challenge]
   - [Screenshot]
-  - [Links]
 
 
 ## Overview
@@ -18,13 +17,10 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
+/home/karina/Trânsito/img-CSV-2.jpeg![image](https://user-images.githubusercontent.com/101573659/198695823-8146d54e-5348-48a5-9b97-ac9155b6db64.png)
 
 
-
-
-### Links
-
-- Solution URL: 
+/home/karina/Trânsito/img-CSV-3.jpeg![image](https://user-images.githubusercontent.com/101573659/198695928-6d65fec4-358d-4278-bd6d-893722978058.png)
 
 
 ### Built with
