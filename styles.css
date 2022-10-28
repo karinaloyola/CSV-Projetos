@@ -2,8 +2,12 @@ body {
   background-image: linear-gradient(to right, #8360c3, #2ebf91);
 }
 
+.img-container {
+  display: flex;
+}
+
 .faqs-container {
-  font-family: "Kumbh Sans", sans-serif;
+  font-family: 'Kumbh Sans', 'Ramabhadra', sans-serif;
   max-width: 700px;
   margin: 0 auto;
 }
@@ -12,9 +16,12 @@ body {
   box-shadow: px 4px8px -3px rgba(0, 0, 0, 0.3);
 }
 
-.faqs-container h2 {
+.faqs-container h1 {
   padding: 4px 32px;
   font-size: 28px;
+  text-align: center;
+  font-weight: bold;
+  font-family: ;
 }
 
 .faqs-container .faq-header {
@@ -61,8 +68,7 @@ body {
 .faqs-container .content.active {
   max-height: 1000px;
 }
- 
- 
- 
- 
- 
+
+article {
+  float: left;
+}
