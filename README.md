@@ -1,12 +1,13 @@
 # Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Overview]
+  - [The challenge]
+  - [Screenshot]
+  - [Links]
 
 
 ## Overview
+A FAQ page.
 
 ### The challenge
 
@@ -18,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-/home/karina/Trânsito/FAQ-page-img-CSV.jpeg![image](https://user-images.githubusercontent.com/101573659/198394675-f30d3b42-d28b-42b0-b2f8-00afb95c08a1.png)
+
 
 
 ### Links
