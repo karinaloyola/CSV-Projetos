@@ -1,8 +1,8 @@
 # Table of contents
 
 - [Overview]
-  - [The challenge]
-  - [Screenshot]
+- [The challenge]
+- [Screenshot]
 
 
 ## Overview
