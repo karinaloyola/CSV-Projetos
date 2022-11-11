@@ -16,13 +16,19 @@ body {
   box-shadow: px 4px8px -3px rgba(0, 0, 0, 0.3);
 }
 
+.background .transbox {
+  opacity: 0.6;
+  color: #3f3258;
+  text-shadow: #8360c3;
+  background-color: #ddeceb;
+}
+
 .faqs-container h1 {
   padding: 4px 32px;
   font-size: 28px;
   text-align: center;
   font-weight: bold;
-  font-family: ;
-}
+  }
 
 .faqs-container .faq-header {
   display: flex;
